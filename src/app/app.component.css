@@ -1,0 +1,66 @@
+video {
+  height: 100%;
+  width: 100%;
+}
+/* iframe{
+    height: 100%;
+    widows: 100%;
+} */
+
+.upperdiv {
+  width: 100%;
+}
+#myTable {
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#myTable td,
+#myTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#myTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#myTable tr:hover {
+  background-color: #ddd;
+}
+
+#myTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #2695a5;
+  color: white;
+}
+.seconddiv {
+  /* border: 3px solid black; */
+  width: 60%;
+  height: 100%;
+}
+.b {
+  border: 3px solid goldenrod;
+  width: 100%;
+  height: 100%;
+}
+.resume {
+  width: 100%;
+  height: 400px;
+}
+.resumebutton {
+  background-color: goldenrod;
+  color: white;
+}
+.videobutton {
+  background-color: red;
+  color: white;
+}
+.a {
+  border: 3px solid palevioletred;
+}
+.candEmail {
+  cursor: pointer;
+}
